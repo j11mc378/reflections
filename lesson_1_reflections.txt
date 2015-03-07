@@ -1,0 +1,18 @@
+How did viewing a diff between two versions of a file help you the bug that was introduced?
+Removed all other info besides changes. Highlighted what was removed/added.
+
+How could having easy access to the entire history of a file make you a more efficient progress in the long term?
+See the changes made, learn from mistakes.
+
+What do you think are the pros and cons of manually choosing when to create a commit vs. automatically saved?
+Pros - easy to understand the key changes done, control
+cons - user error
+
+How can you use the commands git log and git diff to view the history of files?
+Painstakenly - comparing each commit to its predecessor.
+
+How might using version control make you more confident to make changes that could break something?
+You can easily go back a fully working version, compare/figure out what's wrong and try again.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Version control of various docs
