@@ -17,3 +17,7 @@ by showing the relationships graphically
 
 What is the result of merging two branches together? Why do we represent it in a diagram the way we do?
 The changes in each were combined into the master branch. To make it easier to visualize.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Pros: basic merges is taken care of reducing workload.
+Cons: Some manual work is needed for more complex/ambiguous merging.
