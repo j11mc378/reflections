@@ -7,3 +7,6 @@ Because the remote is public and anybody can make any type of changes so it's be
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks - copy of someone else's latest version into my github account keeping a reference to original source. Clones - a copy of a repository with no reference to origin. Branches - a section of a repository.
 A fork when need a copy and want to keep reference to originator, clone for copying repositories without reference, and branches when working on a on something that's not ready for the main branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+can work offline on the latest one, easier to merge changes later on.
