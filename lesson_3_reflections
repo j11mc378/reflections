@@ -10,3 +10,6 @@ A fork when need a copy and want to keep reference to originator, clone for copy
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 can work offline on the latest one, easier to merge changes later on.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Probably using a shared location and logging all changes to let people know recent changes. That would be harder to keep it all working smoothly.
